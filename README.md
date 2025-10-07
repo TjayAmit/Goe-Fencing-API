@@ -76,4 +76,4 @@ Geofence data is stored in `data/fences.json` in GeoJSON format.
 
 ## License
 
-ISC
+This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
